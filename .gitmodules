@@ -1,0 +1,3 @@
+[submodule "nexorad-frontend"]
+	path = nexorad-frontend
+	url = https://github.com/sheriff10/solpass-xion.git
