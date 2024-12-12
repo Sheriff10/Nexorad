@@ -1,3 +1,6 @@
 [submodule "nexorad-frontend"]
 	path = nexorad-frontend
 	url = https://github.com/sheriff10/solpass-xion.git
+[submodule "nexorad-server"]
+	path = nexorad-server
+	url = https://github.com/sheriff10/solpass-server.git
